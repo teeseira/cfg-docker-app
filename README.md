@@ -1,7 +1,7 @@
 # DEVELOPING WITH DOCKER
 ![image](https://github.com/teeseira/cfg-docker-app/assets/72232914/2c5adcfe-acb3-475d-af4e-1bcfe1cd2c70)
 
-- In the space of 4 weeks I learned about the integration between development & operations, Docker commands & containers, and even how to push a Docker image to a repository. This is thanks to Code First Girls who organised the DevOps MOOC Sprint.
+- In the space of 4 weeks I learned about the integration between development & operations, Docker commands & containers, and even how to push a Docker image to a repository. This is thanks to Code First Girls who organised the DevOps MOOC Sprint. My review on the course can be found [here](https://medium.com/@teeseira/devops-docker-8607ec697c01).
 - This CFG Docker App shows a simple web app set up. All components are docker-based.
 
 In this project I packaged files and code in a Docker container, so that it can be moved between environments reliably and safely.
